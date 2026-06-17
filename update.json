@@ -2,5 +2,5 @@
   "version": "1.1.0",
   "buildNumber": "2",
   "apkUrl": "https://github.com/normawallis/vidbuddy-app/releases/download/v1.1.0/app-release.apk",
-  "whatsNew": "• Fixed 1080p/2K/4K video download (audio was missing)\n• Fixed video not showing on real devices\n• Improved download stability and speed"
+  "whatsNew": "• Fixed 1080p/2K/4K video download (audio was missing)\n• Fixed video not showing on real devices\n• Works on ALL Android devices"
 }
