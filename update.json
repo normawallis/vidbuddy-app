@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
-  "buildNumber": "3",
-  "apkUrl": "https://github.com/normawallis/vidbuddy-app/releases/download/v1.2.0/app-release.apk",
-  "whatsNew": "• Fixed 1080p/2K/4K download (black screen issue fixed)\n• Fixed video not playing on real devices\n• Works on ALL Android devices (old and new)"
+  "version": "1.3.0",
+  "buildNumber": "4",
+  "apkUrl": "https://github.com/normawallis/vidbuddy-app/releases/download/v1.3.0/app-release.apk",
+  "whatsNew": "• Added dynamic version number display in Splash and Settings\n• Added folder selector options for download directory paths (Music, Movies, DCIM, downloads)\n• Wired Max Concurrent downloads and Wi-Fi Only settings to downloader queue\n• Automated default quality preset pre-selection\n• Fixed Add Queue duplication and autoplay issues\n• Removed SnackBar queue addition dialog"
 }
