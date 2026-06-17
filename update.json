@@ -1,1 +1,6 @@
-
+{
+  "version": "1.0.0",
+  "buildNumber": 1,
+  "apkUrl": "https://github.com/normawallis/VidBuddy/releases/download/v1.0.0/app-release.apk",
+  "whatsNew": "• Initial public release\n• Spotify-like queue management\n• Dynamic player screen themes\n• Sticky bottom downloader panel."
+}
