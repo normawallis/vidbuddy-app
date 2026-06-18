@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "buildNumber": "5",
-  "apkUrl": "https://github.com/normawallis/vidbuddy-app/releases/download/v1.4.0/app-release.apk",
-  "whatsNew": "• Replaced file_picker dependency with direct custom text path selection dialog\n• Configured Android default download directory to standard /storage/emulated/0/Download folder\n• Bypassed YouTube download speed throttling by matching iOS client user-agent headers and doubling concurrent connections to 8"
+  "version": "1.5.0",
+  "buildNumber": "6",
+  "apkUrl": "https://github.com/normawallis/vidbuddy-app/releases/download/v1.5.0/app-release.apk",
+  "whatsNew": "• Pre-warmed stream manifest cache in the Discover feed to open and buffer videos almost instantly\n• Combined video track sizes with audio track sizes to display accurate download file sizes for 4K/8K streams\n• Preferred H.264 streams over AV1/VP9 to prevent black-screen playback issues on older devices\n• Ensured proper file extensions (.mp3, .mp4, .m4a) for downloaded files with automatic format fallbacks"
 }
